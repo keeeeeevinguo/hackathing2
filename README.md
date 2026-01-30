@@ -5,14 +5,11 @@ A platform that generates personalized video advertisements using AI. Upload a p
 ## Features
 
 - **Google Sheets Integration** - Automatically read consumer profiles from your spreadsheet
-- **Batch Video Generation** - Create personalized videos for multiple consumer segments at once
-- **AI-Powered Personalization** - Each video is tailored to specific demographics and preferences
-- **Image Analysis** - GPT-4 Vision analyzes product images to identify key features
+- **Batch Video Generation** - Create personalized videos for multiple consumers automatically
+- **AI-Powered Personalization** - Each video is tailored to specific demographics, preferences, personalities, etc.
 - **Custom Script Generation** - AI creates compelling ad scripts for each consumer profile
-- **Video Creation with Sora** - OpenAI Sora generates professional vertical videos (720x1280, 8 seconds)
-- **Automated Email Delivery** - Optionally send generated videos directly to consumers
-- **Modern UI** - Clean, responsive interface with drag-and-drop uploads
-- **Real-time Progress** - Track video generation progress for multiple ads
+- **Video Creation with Sora** - OpenAI Sora generates high quality videos (720x1280, 8 seconds)
+- **Automated Email Delivery** - Send generated videos directly to consumers
 
 ## How It Works
 
